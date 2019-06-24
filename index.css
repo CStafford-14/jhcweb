@@ -22,12 +22,15 @@ h1 {
   margin: 0;
   padding: 0;
    background-color: #354045;
+  position: fixed;
 }
 li a {
-  display: block;
-  color: #000;
+  display: inline;
+  float: right;
+  text-color: #ffffff;
   padding: 8px 16px;
   text-decoration: none;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Change the link color on hover */
@@ -37,5 +40,5 @@ li a:hover {
 }
 .active {
   background-color: #4CAF50;
-  color: white;
+  color: blue;
 }
