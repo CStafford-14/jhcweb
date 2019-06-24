@@ -13,12 +13,14 @@ h1 {
 */
 #banner {
   background-image: url(https://images.pexels.com/photos/951882/pexels-photo-951882.jpeg);
-  background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
+  background-position: center;
+  background-repeat: no-repeat;
   height: 100px;
+  text-align: center;
+  text-align-last: center;
 }
 
-body {margin-top: 50px; margin-left: 0px;}
+body {margin-top: 41.4px; margin-left: 0px}
 
 #nav {
   list-style-type: none;
