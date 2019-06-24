@@ -12,10 +12,13 @@ h1 {
     font-family: 'Poppins', sans-serif;
 */
 #banner {
-  background-image: url(https://images.pexels.com/photos/951882/pexels-photo-951882.jpeg?cs=srgb&dl=flowers-petals-leaves-951882.jpg&fm=jpg);
+  background-image: url(https://images.pexels.com/photos/951882/pexels-photo-951882.jpeg);
   background-position: right bottom, left top;
   background-repeat: no-repeat, repeat;
+  height: 100px;
 }
+
+body {margin-top: 50px; margin-left: 0px;}
 
 #nav {
   list-style-type: none;
@@ -27,7 +30,8 @@ h1 {
   top: 0;
   width: 100%;
 }
-li #navi{
+
+li {
    float: right;
 }
 li a {
