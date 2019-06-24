@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Poppins|Raleway&display=swap');
+p {
+  font-family: 'Poppins', sans-serif;
+}
+h1 {
+  font-family: 'Merriweather', serif;
+}
+/* Use these for font families:
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+*/
