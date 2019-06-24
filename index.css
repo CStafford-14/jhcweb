@@ -23,6 +23,9 @@ h1 {
   margin: 0;
   padding: 0;
   background-color: #354045;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 li #navi{
    float: right;
