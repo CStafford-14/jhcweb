@@ -11,3 +11,31 @@ h1 {
     font-family: 'Merriweather', serif;
     font-family: 'Poppins', sans-serif;
 */
+#banner {
+  background-image: url(https://images.pexels.com/photos/951882/pexels-photo-951882.jpeg?cs=srgb&dl=flowers-petals-leaves-951882.jpg&fm=jpg);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+}
+
+#nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+   background-color: #354045;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
