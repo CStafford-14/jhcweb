@@ -19,26 +19,28 @@ h1 {
 
 #nav {
   list-style-type: none;
+  overflow:hidden;
   margin: 0;
   padding: 0;
-   background-color: #354045;
-  position: fixed;
+  background-color: #354045;
+}
+li #navi{
+   float: right;
 }
 li a {
-  display: inline;
-  float: right;
-  text-color: #ffffff;
+  display: block;
+  color: #ffffff;
   padding: 8px 16px;
   text-decoration: none;
+  background-color: #354045;
   font-family: 'Poppins', sans-serif;
 }
 
 /* Change the link color on hover */
 li a:hover {
-  background-color: #555;
-  color: white;
+  background-color: #ffffff;
+  color: #black;
 }
 .active {
-  background-color: #4CAF50;
-  color: blue;
+  background-color: #2385c3;
 }
