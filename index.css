@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Poppins|Raleway&display=swap');
 p {
   font-family: 'Poppins', sans-serif;
-  margin-left: 15px;
+  margin: 15px;
 }
 h1 {
   font-family: 'Merriweather', serif;
