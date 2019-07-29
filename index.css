@@ -42,6 +42,7 @@ li a {
   display: block;
   color: #ffffff;
   padding: 8px 16px;
+  padding-bottom: 9px;
   text-decoration: none;
   background-color: #354045;
   font-family: 'Poppins', sans-serif;
@@ -51,7 +52,8 @@ li a {
 li a:hover {
   background-color: #ffffff;
   color: #black;
-  text-color: #000000;
+  color: #000000;
+  padding-bottom: 9px;
 }
 .active {
   background-color: #2385c3;
