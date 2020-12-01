@@ -1,5 +1,2 @@
-# jhcweb
-Website for JHC Productions
-
-# What is JHC Productions?
-JHC Productions is an animated film company founded in 2019.
+# This project has been terminated.
+Nothing new will happen here.
